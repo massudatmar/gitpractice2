@@ -9,6 +9,10 @@ public class Friday{
     
     System.out.println("Ohio your gizmo");
     
+    
+    
+    //This message brought to you by Github. Ninja.
+    
   }
   
 }
