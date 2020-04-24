@@ -13,6 +13,7 @@ public class Friday{
     
     //This message brought to you by Github. Ninja.
     
+    
   }
   
 }
