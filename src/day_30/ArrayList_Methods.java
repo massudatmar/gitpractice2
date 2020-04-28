@@ -45,7 +45,7 @@ public class ArrayList_Methods {
         System.out.println(list4);
 
 
-
+// ITS F***ING RAAAAAAAAAAAAAAAAAAAAWWWWW!!!
 
     }
 
