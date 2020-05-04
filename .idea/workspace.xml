@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a648123b-ba8b-40be-84c0-695fc86d3248" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitpractice2/day_1/Friday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitpractice2/day_1/Friday.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_1/Friday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_1/Friday.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +33,35 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled/src" />
   </component>
-  <component name="RunManager" selected="Application.ArrayList_Methods2">
-    <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_30.ArrayList_Methods" />
+  <component name="RunManager" selected="Application.carObjects">
+    <configuration name="Divby3or5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32_Predicates.Divby3or5" />
+      <module name="gitpractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day32_Predicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda_Expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32_Predicates.Lambda_Expressions" />
+      <module name="gitpractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day32_Predicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_30.RemoveDuplicates" />
       <module name="gitpractice2" />
       <extension name="coverage">
         <pattern>
@@ -49,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_30.ArrayList_Methods2" />
+    <configuration name="RemoveSpecialCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day32_Predicates.RemoveSpecialCharacters" />
       <module name="gitpractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_30.*" />
+          <option name="PATTERN" value="Day32_Predicates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,38 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombiningTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_30.CombiningTwoArrays" />
+    <configuration name="carObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.carObjects" />
       <module name="gitpractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Friday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_1.Friday" />
-      <module name="gitpractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_30.Uniques" />
-      <module name="gitpractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_30.*" />
+          <option name="PATTERN" value="day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayList_Methods2" />
-        <item itemvalue="Application.ArrayList_Methods" />
-        <item itemvalue="Application.CombiningTwoArrays" />
-        <item itemvalue="Application.Uniques" />
-        <item itemvalue="Application.Friday" />
+        <item itemvalue="Application.carObjects" />
+        <item itemvalue="Application.Divby3or5" />
+        <item itemvalue="Application.RemoveSpecialCharacters" />
+        <item itemvalue="Application.Lambda_Expressions" />
+        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -150,25 +148,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588087758731" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588093615729">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588612015928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588093615729" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588612015928" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588093615729">
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588612015928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588093615729" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588612015928" />
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588093615729">
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588612015928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588093615729" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588612015928" />
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588093615729">
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588612015928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588093615729" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588612015928" />
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587760622273">
       <screen x="0" y="0" width="1536" height="824" />
