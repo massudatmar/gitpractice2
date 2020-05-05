@@ -33,48 +33,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled/src" />
   </component>
-  <component name="RunManager" selected="Application.carObjects">
+  <component name="RunManager" selected="Application.Bank_of_America">
+    <configuration name="Bank_of_America" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.Bank_of_America" />
+      <module name="gitpractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Divby3or5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day32_Predicates.Divby3or5" />
-      <module name="gitpractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day32_Predicates.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lambda_Expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day32_Predicates.Lambda_Expressions" />
-      <module name="gitpractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day32_Predicates.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_30.RemoveDuplicates" />
-      <module name="gitpractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveSpecialCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day32_Predicates.RemoveSpecialCharacters" />
       <module name="gitpractice2" />
       <extension name="coverage">
         <pattern>
@@ -99,13 +73,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="catObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.catObjects" />
+      <module name="gitpractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day33_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="studentObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.studentObjects" />
+      <module name="gitpractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bank_of_America" />
+        <item itemvalue="Application.studentObjects" />
+        <item itemvalue="Application.catObjects" />
         <item itemvalue="Application.carObjects" />
         <item itemvalue="Application.Divby3or5" />
-        <item itemvalue="Application.RemoveSpecialCharacters" />
-        <item itemvalue="Application.Lambda_Expressions" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -148,25 +148,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588087758731" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588612015928">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588707312154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588612015928" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588707312154" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588612015928">
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588707312154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588612015928" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588707312154" />
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588612015928">
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588707312153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588612015928" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588707312153" />
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588612015928">
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588707312154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588612015928" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588707312154" />
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587760622273">
       <screen x="0" y="0" width="1536" height="824" />
@@ -184,5 +184,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587760622273" />
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1588704532430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824/-1366.173.1366.728@0.0.1536.824" timestamp="1588704532430" />
   </component>
 </project>
